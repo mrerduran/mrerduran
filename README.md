@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm .Net & Game Developer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I'm Full-Stack .NET & Virtual Reality & Game Developer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
