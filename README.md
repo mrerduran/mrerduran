@@ -8,8 +8,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Rider_/ ReSharper-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&color=2bbc8a)
