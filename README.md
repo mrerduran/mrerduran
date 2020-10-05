@@ -25,10 +25,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=erduranogulcan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ogulcan's GitHub Stats" />
 </a>
 
-<a href="https://github.com/erduranogulcan/AppMonitor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erduranogulcan&repo=AppMonitor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
