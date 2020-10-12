@@ -7,12 +7,9 @@ I'm Full-Stack .NET & Virtual Reality & Game Developer. You can find me on [![Tw
 Apart from coding, I also maintain a blog - you can find my articles on my website at [ogulcanerduran.com](https://ogulcanerduran.com/) as well as on [Medium](https://medium.com/@erduranogulcan).
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&color=2bbc8a)
 
