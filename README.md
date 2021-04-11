@@ -2,10 +2,6 @@
 
 I'm Full-Stack .NET & Virtual Reality & Game Developer.
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@erduranogulcan).
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&color=2bbc8a)
