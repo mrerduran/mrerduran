@@ -11,7 +11,7 @@ I'm Full-Stack .NET & Virtual Reality & Game Developer.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/mrerduran">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erduranogulcan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ogulcan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrerduran&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Erduran's GitHub Stats" />
 </a>
 
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
