@@ -5,7 +5,6 @@ I'm Full-Stack .NET & Virtual Reality & Game Developer.
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
