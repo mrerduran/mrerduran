@@ -28,7 +28,3 @@ Hi there! I’m Ogulcan, a builder who loves shipping end-to-end experiences —
 
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrerduran&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-</div>
